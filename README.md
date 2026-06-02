@@ -4,10 +4,6 @@
 
 - 🔭 I'm currently working on **a Python Bot and a Website for Email analyzes.**
 
-- 🌱 I'm currently learning **Python and Machine Learning**
-
-- 👨‍💻 All of my projects are available at **[https://usebube.com.br](https://usebube.com.br)**
-
 - 📄 Know about my experiences **[https://drive.proton.me/urls/WP42T48NMR#wSlfnmHRMs2O](https://drive.proton.me/urls/WP42T48NMR#wSlfnmHRMs2O)**
 
 <h3 align="left">Connect with me:</h3>
