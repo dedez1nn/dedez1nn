@@ -41,7 +41,7 @@ Sou desenvolvedor back-end focado em automações com IA e sistemas eficientes. 
 
 | Projeto | Descrição |
 |---------|-----------|
-| [**Fenrir**](https://github.com/dedez1nn/fenrir) | — |
+| [**Fenrir**](https://github.com/dedez1nn/fenrir-bot-code) | — |
 | [**GestorDocs**](https://github.com/dedez1nn/gestordocs) | Automação de documentos para contadores |
 
 > 💡 Atualmente construindo automações pessoais com Python e IA para otimizar fluxos do dia a dia.
@@ -52,8 +52,7 @@ Sou desenvolvedor back-end focado em automações com IA e sistemas eficientes. 
 
 <div align="center">
 
-![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=dedez1nn&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dedez1nn&layout=compact&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=dedez1nn&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -115,7 +114,6 @@ I'm a back-end developer focused on AI automations and efficient systems. Curren
 
 <div align="center">
 
-![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=dedez1nn&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dedez1nn&layout=compact&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=dedez1nn&theme=tokyonight&hide_border=true)
 
 </div>
